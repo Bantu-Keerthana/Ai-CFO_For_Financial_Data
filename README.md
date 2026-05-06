@@ -1,4 +1,4 @@
-# Zuro AI CFO
+# AI CFO
 
 A split-screen AI CFO dashboard built with Next.js. The left panel features Maya, a voice-enabled AI CFO assistant powered by a Groq tool-calling agent. The right panel shows a live financial dashboard calculated deterministically from Mercury and Wise CSV transaction data.
 
