@@ -1,0 +1,67 @@
+Date,Description,Amount,Status,Counterparty,Category,Reference,Account
+2026-03-01,Gusto Payroll Run,-94800.00,Sent,"Gusto, Inc.",Payroll,GUSTO-2603-01,Operating - USD
+2026-03-02,ACH Acme Corp Annual License,60000.00,Received,Acme Corporation,Sales Revenue,INV-2026-0042,Operating - USD
+2026-03-03,AWS Service Charges - February,-27400.00,Sent,Amazon Web Services,Software & Tools,AWS-FEB-2026,Operating - USD
+2026-03-04,OpenAI API Usage - February,-11950.00,Sent,"OpenAI, LLC",AI Compute,OAI-FEB-2026,Operating - USD
+2026-03-04,Anthropic API Usage - February,-8200.00,Sent,"Anthropic, PBC",AI Compute,ANT-FEB-2026,Operating - USD
+2026-03-05,Office Lease - WeWork SOMA,-8500.00,Sent,WeWork Companies LLC,Rent & Utilities,LEASE-202603,Operating - USD
+2026-03-05,HubSpot CRM Subscription,-1180.00,Sent,"HubSpot, Inc.",Software & Tools,HUB-2603,Operating - USD
+2026-03-06,GitHub Enterprise Cloud,-840.00,Sent,"GitHub, Inc.",Software & Tools,GH-2603,Operating - USD
+2026-03-06,Vercel Pro Team,-320.00,Sent,"Vercel, Inc.",Software & Tools,VER-2603,Operating - USD
+2026-03-07,Notion Team Plan,-276.00,Sent,Notion Labs Inc.,Software & Tools,NOT-2603,Operating - USD
+2026-03-08,Slack Subscription,-540.00,Sent,Slack Technologies,Software & Tools,SLK-2603,Operating - USD
+2026-03-09,Wire Transfer to Wise USD Balance,-45000.00,Sent,Wise US Inc.,Internal Transfer,WIRE-WISE-2603,Operating - USD
+2026-03-10,ACH DataCo Q1 Subscription,25000.00,Received,DataCo Analytics,Sales Revenue,INV-2026-0043,Operating - USD
+2026-03-11,Pinecone Vector DB Annual,-2400.00,Sent,Pinecone Systems Inc.,AI Compute,PIN-2603,Operating - USD
+2026-03-12,Datadog Monitoring,-1820.00,Sent,Datadog Inc.,Software & Tools,DD-2603,Operating - USD
+2026-03-13,Recruiting Platform - Gem,-4500.00,Sent,Gem Software Inc.,Recruiting,GEM-2603,Operating - USD
+2026-03-15,Gusto Payroll Run,-94800.00,Sent,"Gusto, Inc.",Payroll,GUSTO-2603-15,Operating - USD
+2026-03-15,Linear Project Tool,-420.00,Sent,Linear Orbit Inc.,Software & Tools,LIN-2603,Operating - USD
+2026-03-16,ACH InsightAI Q1 Renewal,40000.00,Received,InsightAI Holdings,Sales Revenue,INV-2026-0044,Operating - USD
+2026-03-17,Legal Services - Wilson Sonsini,-6500.00,Sent,Wilson Sonsini Goodrich,Legal,WSGR-2603,Operating - USD
+2026-03-18,Cursor IDE - Team Seats,-320.00,Sent,Anysphere Inc.,Software & Tools,CUR-2603,Operating - USD
+2026-03-19,ACH RetailX Q1 Subscription,15000.00,Received,RetailX Commerce,Sales Revenue,INV-2026-0045,Operating - USD
+2026-03-20,Founder Travel Reimbursement,-1260.00,Sent,Jude Adekunle,Travel & Entertainment,REIMB-2603-J,Operating - USD
+2026-03-22,Replicate Inference Credits,-1420.00,Sent,"Replicate, Inc.",AI Compute,REP-2603,Operating - USD
+2026-03-23,Mercury Treasury Yield,2810.00,Received,Mercury Treasury,Interest Income,MIO-INT-2603,Operating - USD
+2026-03-24,ACH Polaris Software Q1,18000.00,Received,Polaris Software,Sales Revenue,INV-2026-0046,Operating - USD
+2026-03-25,Brex Card Top-up,-12000.00,Sent,Brex Inc.,Internal Transfer,BREX-TOP-2603,Operating - USD
+2026-03-26,AWS - Additional GPU Reservation,-6400.00,Sent,Amazon Web Services,AI Compute,AWS-EXTRA-2603,Operating - USD
+2026-03-27,Domain Renewals,-118.00,Sent,Cloudflare Registrar,Software & Tools,CF-DOM-2603,Operating - USD
+2026-03-28,LinkedIn Recruiter Seat,-960.00,Sent,LinkedIn Corporation,Recruiting,LI-2603,Operating - USD
+2026-03-30,ACH Northstar Labs Q1,8500.00,Received,Northstar Labs,Sales Revenue,INV-2026-0047,Operating - USD
+2026-03-31,Health Insurance - Justworks,-8200.00,Sent,Justworks Inc.,Benefits,JW-2603,Operating - USD
+2026-03-31,Mercury Treasury Yield,295.00,Received,Mercury Treasury,Interest Income,MIO-INT-2603-2,Operating - USD
+2026-04-01,Gusto Payroll Run,-97200.00,Sent,"Gusto, Inc.",Payroll,GUSTO-2604-01,Operating - USD
+2026-04-02,ACH Acme Corp - Add-on Seats,5000.00,Received,Acme Corporation,Sales Revenue,INV-2026-0048,Operating - USD
+2026-04-03,AWS Service Charges - March,-29800.00,Sent,Amazon Web Services,Software & Tools,AWS-MAR-2026,Operating - USD
+2026-04-04,OpenAI API Usage - March,-13250.00,Sent,"OpenAI, LLC",AI Compute,OAI-MAR-2026,Operating - USD
+2026-04-04,Anthropic API Usage - March,-10100.00,Sent,"Anthropic, PBC",AI Compute,ANT-MAR-2026,Operating - USD
+2026-04-05,Office Lease - WeWork SOMA,-8500.00,Sent,WeWork Companies LLC,Rent & Utilities,LEASE-202604,Operating - USD
+2026-04-05,HubSpot CRM Subscription,-1180.00,Sent,"HubSpot, Inc.",Software & Tools,HUB-2604,Operating - USD
+2026-04-06,ACH DataCo Q2 Subscription,25000.00,Received,DataCo Analytics,Sales Revenue,INV-2026-0049,Operating - USD
+2026-04-07,GitHub Enterprise Cloud,-840.00,Sent,"GitHub, Inc.",Software & Tools,GH-2604,Operating - USD
+2026-04-08,Vercel Pro Team,-340.00,Sent,"Vercel, Inc.",Software & Tools,VER-2604,Operating - USD
+2026-04-09,Notion Team Plan,-276.00,Sent,Notion Labs Inc.,Software & Tools,NOT-2604,Operating - USD
+2026-04-10,Slack Subscription,-540.00,Sent,Slack Technologies,Software & Tools,SLK-2604,Operating - USD
+2026-04-11,Wire Transfer to Wise USD Balance,-48000.00,Sent,Wise US Inc.,Internal Transfer,WIRE-WISE-2604,Operating - USD
+2026-04-12,ACH MidwestRobotics New Logo Annual,35000.00,Received,MidwestRobotics LLC,Sales Revenue,INV-2026-0050,Operating - USD
+2026-04-14,Datadog Monitoring,-1940.00,Sent,Datadog Inc.,Software & Tools,DD-2604,Operating - USD
+2026-04-15,Gusto Payroll Run,-97200.00,Sent,"Gusto, Inc.",Payroll,GUSTO-2604-15,Operating - USD
+2026-04-15,Pinecone Monthly Overage,-200.00,Sent,Pinecone Systems Inc.,AI Compute,PIN-2604,Operating - USD
+2026-04-16,ACH InsightAI Q2 Renewal,20000.00,Received,InsightAI Holdings,Sales Revenue,INV-2026-0051,Operating - USD
+2026-04-17,Linear Project Tool,-420.00,Sent,Linear Orbit Inc.,Software & Tools,LIN-2604,Operating - USD
+2026-04-18,Recruiting Platform - Gem,-3200.00,Sent,Gem Software Inc.,Recruiting,GEM-2604,Operating - USD
+2026-04-19,ACH RetailX Q2 Subscription,15000.00,Received,RetailX Commerce,Sales Revenue,INV-2026-0052,Operating - USD
+2026-04-20,Legal Services - Wilson Sonsini,-4800.00,Sent,Wilson Sonsini Goodrich,Legal,WSGR-2604,Operating - USD
+2026-04-21,Cursor IDE - Team Seats,-320.00,Sent,Anysphere Inc.,Software & Tools,CUR-2604,Operating - USD
+2026-04-22,Mercury Treasury Yield,3090.00,Received,Mercury Treasury,Interest Income,MIO-INT-2604,Operating - USD
+2026-04-23,ACH Polaris Software Q2,18000.00,Received,Polaris Software,Sales Revenue,INV-2026-0053,Operating - USD
+2026-04-24,Brex Card Top-up,-15000.00,Sent,Brex Inc.,Internal Transfer,BREX-TOP-2604,Operating - USD
+2026-04-25,AWS - Training Run Reservation,-8200.00,Sent,Amazon Web Services,AI Compute,AWS-TRAIN-2604,Operating - USD
+2026-04-26,ACH Northstar Labs Q2,8500.00,Received,Northstar Labs,Sales Revenue,INV-2026-0054,Operating - USD
+2026-04-27,Replicate Inference Credits,-1780.00,Sent,"Replicate, Inc.",AI Compute,REP-2604,Operating - USD
+2026-04-28,LinkedIn Recruiter Seat,-960.00,Sent,LinkedIn Corporation,Recruiting,LI-2604,Operating - USD
+2026-04-29,Health Insurance - Justworks,-8400.00,Sent,Justworks Inc.,Benefits,JW-2604,Operating - USD
+2026-04-30,ACH Hexa Robotics New Logo Annual,50000.00,Received,Hexa Robotics Inc.,Sales Revenue,INV-2026-0055,Operating - USD
+2026-04-30,Mercury Treasury Yield,310.00,Received,Mercury Treasury,Interest Income,MIO-INT-2604-2,Operating - USD

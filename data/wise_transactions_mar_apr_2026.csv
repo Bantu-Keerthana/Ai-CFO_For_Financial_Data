@@ -1,0 +1,24 @@
+Date,TransferID,Type,Status,SourceAmount,SourceCurrency,TargetAmount,TargetCurrency,ExchangeRate,WiseFeeUSD,Recipient,RecipientCountry,Reference
+2026-03-09,TW-2603-FUND01,Topup,Completed,45000.00,USD,45000.00,USD,1.0000,0.00,Wise USD Balance,US,Funding wire from Mercury
+2026-03-10,TW-2603-001,Send,Completed,4830.00,USD,4500.00,EUR,0.9317,18.50,Maria Schmidt,DE,March 2026 - Senior Designer Contract
+2026-03-10,TW-2603-002,Send,Completed,6210.00,USD,4800.00,GBP,0.7729,24.80,James Patel,GB,March 2026 - Senior Engineer Contract
+2026-03-10,TW-2603-003,Send,Completed,2150.00,USD,180000.00,INR,83.7200,12.40,Arjun Mehta,IN,March 2026 - Engineer Contract
+2026-03-10,TW-2603-004,Send,Completed,3025.00,USD,2800.00,EUR,0.9256,14.20,Pierre Dubois,FR,March 2026 - Content Writer Contract
+2026-03-10,TW-2603-005,Send,Completed,1720.00,USD,8500.00,BRL,4.9419,9.80,Lucas Silva,BR,March 2026 - Data Engineer Contract
+2026-03-15,TW-2603-006,Send,Completed,2200.00,USD,2050.00,EUR,0.9318,11.50,Anna Kowalski,PL,March 2026 - QA Contractor
+2026-03-15,TW-2603-007,Send,Completed,1880.00,USD,1450.00,GBP,0.7713,9.20,Hassan Ali,GB,March 2026 - DevRel Contractor
+2026-03-20,TW-2603-008,Send,Completed,1230.00,USD,1140.00,EUR,0.9268,7.40,Ines Rodrigues,PT,March 2026 - Marketing Contractor
+2026-03-25,TW-2603-009,Send,Completed,720.00,USD,60000.00,INR,83.3300,4.20,Arjun Mehta,IN,March 2026 - Performance Bonus
+2026-03-30,TW-2603-FX01,Conversion,Completed,5000.00,USD,4640.00,EUR,0.9280,7.50,Wise EUR Balance,Multi,USD to EUR conversion - holding for Apr payroll
+2026-04-11,TW-2604-FUND01,Topup,Completed,48000.00,USD,48000.00,USD,1.0000,0.00,Wise USD Balance,US,Funding wire from Mercury
+2026-04-12,TW-2604-001,Send,Completed,4860.00,USD,4500.00,EUR,0.9259,18.60,Maria Schmidt,DE,April 2026 - Senior Designer Contract
+2026-04-12,TW-2604-002,Send,Completed,6285.00,USD,4800.00,GBP,0.7637,25.10,James Patel,GB,April 2026 - Senior Engineer Contract
+2026-04-12,TW-2604-003,Send,Completed,2165.00,USD,180000.00,INR,83.1410,12.50,Arjun Mehta,IN,April 2026 - Engineer Contract
+2026-04-12,TW-2604-004,Send,Completed,3045.00,USD,2800.00,EUR,0.9195,14.30,Pierre Dubois,FR,April 2026 - Content Writer Contract
+2026-04-12,TW-2604-005,Send,Completed,1745.00,USD,8500.00,BRL,4.8711,9.90,Lucas Silva,BR,April 2026 - Data Engineer Contract
+2026-04-12,TW-2604-006,Send,Completed,2640.00,USD,2400.00,EUR,0.9091,12.20,Sofia Marchetti,IT,April 2026 - New Designer Contract
+2026-04-15,TW-2604-007,Send,Completed,2215.00,USD,2050.00,EUR,0.9255,11.60,Anna Kowalski,PL,April 2026 - QA Contractor
+2026-04-15,TW-2604-008,Send,Completed,1900.00,USD,1450.00,GBP,0.7632,9.30,Hassan Ali,GB,April 2026 - DevRel Contractor
+2026-04-20,TW-2604-009,Send,Completed,1240.00,USD,1140.00,EUR,0.9194,7.50,Ines Rodrigues,PT,April 2026 - Marketing Contractor
+2026-04-22,TW-2604-010,Send,Completed,1380.00,USD,115000.00,INR,83.3333,8.10,Priya Krishnan,IN,April 2026 - Junior Engineer Contract
+2026-04-28,TW-2604-011,Send,Completed,830.00,USD,4100.00,BRL,4.9398,5.20,Lucas Silva,BR,April 2026 - Performance Bonus
